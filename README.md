@@ -3,4 +3,4 @@
 
 Primeiro repositório feito com sucesso. 
 
-Teste do curso Gustavo Guanabara, assim feito mais uma linha no site. 
+Teste do curso Gustavo Guanabara, feito assim mais uma linha no site. 
